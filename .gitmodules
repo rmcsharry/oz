@@ -1,0 +1,3 @@
+[submodule "chat.sh"]
+	path = chat.sh
+	url = https://github.com/basherbots/chat.sh
