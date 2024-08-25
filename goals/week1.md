@@ -10,6 +10,7 @@
 ## Personal
 - [ ] Learn nano + tmux
 - [ ] Map oz.local to local ip
+- [ ] Personal newsletter for family to catch up on
 ## Social
 - [ ] Start Substack to curate Reddit and build a newsletter
 - [ ] Create an IRC server for Basherbots
