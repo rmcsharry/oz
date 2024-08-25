@@ -14,6 +14,7 @@
 !goals/*
 !dailies/*
 !notes/*
+!questions/*
 
 # Re-prevent files from personal directories
 *.swp
