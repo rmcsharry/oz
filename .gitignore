@@ -8,9 +8,9 @@
 # Allow repo stuff
 !README.md
 
-# Allow personal stuff
+# Allow personal directories
 !goals/*
-goals/*.swp
-
 !dailies/*
-!ideas/*
+
+# Re-prevent files from personal directories
+*.swp
