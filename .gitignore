@@ -13,6 +13,7 @@
 # Allow personal directories
 !goals/*
 !dailies/*
+!notes/*
 
 # Re-prevent files from personal directories
 *.swp
