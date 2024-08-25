@@ -5,6 +5,7 @@
 !chat.sh/*
 !bot.sh/*
 !.gitignore
+!.tmux.conf
 
 # Allow repo stuff
 !README.md

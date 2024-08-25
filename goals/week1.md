@@ -3,6 +3,7 @@
   - [ ] Daily Diary
   - [ ] File/Directory watcher bot
   - [ ] Git commit with summaries
+  - [ ] Auto push bot
 - [ ] Teleport my terminal to a website with generative AI music
 - [ ] Map oz.local to local ip
 - [ ] Start Substack to curate Reddit and build a newsletter
