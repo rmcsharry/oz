@@ -16,3 +16,4 @@
 
 # Re-prevent files from personal directories
 *.swp
+*.save
