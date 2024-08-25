@@ -1,5 +1,16 @@
+# Ignore everything
 *
-!dailies/*
+
+# Allow submodules
 !chat.sh/*
 !.gitignore
+
+# Allow repo stuff
 !README.md
+
+# Allow personal stuff
+!goals/*
+goals/*.swp
+
+!dailies/*
+!ideas/*

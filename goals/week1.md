@@ -1,0 +1,3 @@
+# Goals
+- [ ] Basherbots
+  - [ ] Daily Diary
