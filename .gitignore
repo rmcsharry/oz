@@ -3,6 +3,7 @@
 
 # Allow submodules
 !chat.sh/*
+!bot.sh/*
 !.gitignore
 
 # Allow repo stuff
