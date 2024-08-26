@@ -1,10 +1,13 @@
 # Goals
 ## Basherbots
-- [ ] Daily Diary
-- [ ] File/Directory watcher bot
-- [ ] Git commit with summaries
+- [-] Daily Diary
+- [-] File/Directory watcher bot
+  - [x] `watch.sh` helper
+  - [ ] summarize each changed file
+  - [ ] summarize just the changes
+- [ ] Automatic git commit with summaries (see Andrej Karpathies recent tweet)
 - [ ] Auto push bot
-## Jobhunt
+## Jobhunt & Sponsors
 - [ ] Start portfolio
 - [ ] Teleport my terminal to a website with generative AI music
 ## Personal
